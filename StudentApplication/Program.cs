@@ -26,8 +26,8 @@ builder.Services.AddCors(opt =>
         .WithOrigins(
             "http://localhost:5173",
             "http://localhost:3000",
-            "http://localhost:4200"
-        // add your deployed frontend origin(s) here, e.g. "https://your-vercel-app.vercel.app"
+            "http://localhost:4200",
+            "https://infoproject-of07pnstu-aldomekics-projects.vercel.app"
         )
         .AllowAnyHeader()
         .AllowAnyMethod()
