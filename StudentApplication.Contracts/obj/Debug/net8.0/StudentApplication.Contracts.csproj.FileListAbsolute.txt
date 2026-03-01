@@ -22,3 +22,15 @@ C:\Users\aldom\OneDrive\Desktop\Student application\StudentApplication\StudentAp
 C:\Users\aldom\OneDrive\Desktop\Student application\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\refint\StudentApplication.Contracts.dll
 C:\Users\aldom\OneDrive\Desktop\Student application\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\StudentApplication.Contracts.pdb
 C:\Users\aldom\OneDrive\Desktop\Student application\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\ref\StudentApplication.Contracts.dll
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\bin\Debug\net8.0\StudentApplication.Contracts.deps.json
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\bin\Debug\net8.0\StudentApplication.Contracts.dll
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\bin\Debug\net8.0\StudentApplication.Contracts.pdb
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\StudentApplication.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\StudentApplication.Contracts.AssemblyInfoInputs.cache
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\StudentApplication.Contracts.AssemblyInfo.cs
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\StudentApplication.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\StudentApplication.Contracts.sourcelink.json
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\StudentApplication.Contracts.dll
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\refint\StudentApplication.Contracts.dll
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\StudentApplication.Contracts.pdb
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Contracts\obj\Debug\net8.0\ref\StudentApplication.Contracts.dll

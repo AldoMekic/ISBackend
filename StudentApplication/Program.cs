@@ -17,8 +17,7 @@ builder.Services.AddSwaggerGen();
 
 // DbContext from ConnectionStrings:Default
 builder.Services.AddDbContext<DatabaseContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Default"))
-);
+    options.UseNpgsql(builder.Configuration.GetConnectionString("Default")));
 
 // CORS (adjust origins for your frontend)
 builder.Services.AddCors(opt =>
@@ -111,8 +110,8 @@ if (app.Environment.IsDevelopment())
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<DatabaseContext>();
+    db.Database.Migrate();
 
-    // Seed a single admin user if none exists
     if (!db.Users.Any(u => u.IsAdmin))
     {
         var adminUser = new User
@@ -122,7 +121,7 @@ using (var scope = app.Services.CreateScope())
             Password = Convert.ToHexString(System.Security.Cryptography.SHA256.HashData(Encoding.UTF8.GetBytes("Admin123!"))),
             IsStudent = false,
             IsProfessor = false,
-            IsApproved = true,  
+            IsApproved = true,
             IsAdmin = true
         };
         db.Users.Add(adminUser);

@@ -28,3 +28,18 @@ C:\Users\aldom\OneDrive\Desktop\Student application\StudentApplication\StudentAp
 C:\Users\aldom\OneDrive\Desktop\Student application\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\StudentApplication.Data.pdb
 C:\Users\aldom\OneDrive\Desktop\Student application\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\StudentApplication.Data.genruntimeconfig.cache
 C:\Users\aldom\OneDrive\Desktop\Student application\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\ref\StudentApplication.Data.dll
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\bin\Debug\net8.0\StudentApplication.Data.deps.json
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\bin\Debug\net8.0\StudentApplication.Data.runtimeconfig.json
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\bin\Debug\net8.0\StudentApplication.Data.dll
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\bin\Debug\net8.0\StudentApplication.Data.pdb
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\StudentApplication.Data.csproj.AssemblyReference.cache
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\StudentApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\StudentApplication.Data.AssemblyInfoInputs.cache
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\StudentApplication.Data.AssemblyInfo.cs
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\StudentApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\StudentApplication.Data.sourcelink.json
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\StudentApplication.Data.dll
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\refint\StudentApplication.Data.dll
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\StudentApplication.Data.pdb
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\StudentApplication.Data.genruntimeconfig.cache
+C:\Users\aldom\OneDrive\Desktop\StudentApplication\StudentApplication.Data\obj\Debug\net8.0\ref\StudentApplication.Data.dll
