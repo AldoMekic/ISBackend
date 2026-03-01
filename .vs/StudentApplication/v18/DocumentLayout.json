@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|c:\\users\\aldom\\onedrive\\desktop\\student application\\studentapplication\\studentapplication.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|solutionrelative:studentapplication.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|c:\\users\\aldom\\onedrive\\desktop\\student application\\studentapplication\\studentapplication.data\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|solutionrelative:studentapplication.data\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|c:\\users\\aldom\\onedrive\\desktop\\student application\\studentapplication\\studentapplication.data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|solutionrelative:studentapplication.data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|c:\\users\\aldom\\onedrive\\desktop\\student application\\studentapplication\\studentapplication.data\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|solutionrelative:studentapplication.data\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|c:\\users\\aldom\\onedrive\\desktop\\student application\\studentapplication\\studentapplication.data\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|solutionrelative:studentapplication.data\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|c:\\users\\aldom\\onedrive\\desktop\\student application\\studentapplication\\studentapplication.data\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|solutionrelative:studentapplication.data\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|c:\\users\\aldom\\onedrive\\desktop\\student application\\studentapplication\\studentapplication.data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|solutionrelative:studentapplication.data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|c:\\users\\aldom\\onedrive\\desktop\\student application\\studentapplication\\studentapplication.data\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D4B73E-6C70-4A08-967C-7229AF7C29D9}|StudentApplication.Data\\StudentApplication.Data.csproj|solutionrelative:studentapplication.data\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 276,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\User.cs",
+              "RelativeToolTip": "StudentApplication.Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:12:22.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Subject.cs",
+              "RelativeToolTip": "StudentApplication.Data\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:12:22.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Student.cs",
+              "RelativeToolTip": "StudentApplication.Data\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:12:21.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Professor.cs",
+              "RelativeToolTip": "StudentApplication.Data\\Models\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:12:20.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Grade.cs",
+              "RelativeToolTip": "StudentApplication.Data\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:12:19.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Enrollment.cs",
+              "RelativeToolTip": "StudentApplication.Data\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:12:19.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Department.cs",
+              "RelativeToolTip": "StudentApplication.Data\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:12:18.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\Models\\Admin.cs",
+              "RelativeToolTip": "StudentApplication.Data\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:12:17.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
