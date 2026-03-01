@@ -18,7 +18,7 @@ namespace StudentApplication.Contracts.DTOs
         public DepartmentResponseDTO? Department { get; set; }
         public bool IsApproved { get; set; }
         public DateTimeOffset? ApprovedAt { get; set; }
-        public int? ApprovedByAdminId { get; set; }
+        public int? ApprovedByUserId { get; set; }
 
         public List<SubjectResponseDTO> Subjects { get; set; }
     }

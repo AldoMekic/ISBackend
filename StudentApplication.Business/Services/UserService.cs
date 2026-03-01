@@ -87,7 +87,7 @@ namespace StudentApplication.Business.Services
                     // professor entity approval fields
                     IsApproved = false,
                     ApprovedAt = null,
-                    ApprovedByAdminId = null
+                    ApprovedByUserId = null
                 };
 
                 await _context.Professors.AddAsync(professor);
@@ -175,7 +175,7 @@ namespace StudentApplication.Business.Services
             {
                 professor.IsApproved = true;
                 professor.ApprovedAt = DateTimeOffset.UtcNow;
-                professor.ApprovedByAdminId = approvedByAdminId > 0 ? approvedByAdminId : null;
+                professor.ApprovedByUserId = approvedByAdminId > 0 ? approvedByAdminId : null;
             }
 
             await _context.SaveChangesAsync();

@@ -19,8 +19,8 @@ namespace StudentApplication.Data.Models
 
         public bool IsApproved { get; set; }
         public DateTimeOffset? ApprovedAt { get; set; }
-        public int? ApprovedByAdminId { get; set; }
-        public Admin? ApprovedByAdmin { get; set; }
+        public int? ApprovedByUserId { get; set; }
+        public User? ApprovedByUser { get; set; }
 
         public int? UserId { get; set; }
         public User? User { get; set; }

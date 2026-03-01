@@ -17,7 +17,8 @@ namespace StudentApplication.Business.MappingProfiles
 
             CreateMap<Professor, ProfessorResponseDTO>()
                 .ForMember(d => d.Department, opt => opt.MapFrom(s => s.Department))
-                .ForMember(d => d.Subjects, opt => opt.MapFrom(s => s.Subjects));
+                .ForMember(d => d.Subjects, opt => opt.MapFrom(s => s.Subjects))
+                .ForMember(d => d.ApprovedByUserId, opt => opt.MapFrom(s => s.ApprovedByUserId));
         }
     }
 }

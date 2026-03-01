@@ -79,10 +79,10 @@ namespace StudentApplication.Data
                  .HasForeignKey<Professor>(p => p.UserId)
                  .OnDelete(DeleteBehavior.SetNull);
 
-                b.HasOne(p => p.ApprovedByAdmin)
-                 .WithMany(a => a.ApprovedProfessors)
-                 .HasForeignKey(p => p.ApprovedByAdminId)
-                 .OnDelete(DeleteBehavior.SetNull);
+                b.HasOne(p => p.ApprovedByUser)
+ .WithMany()
+ .HasForeignKey(p => p.ApprovedByUserId)
+ .OnDelete(DeleteBehavior.SetNull);
             });
 
             // SUBJECTS
