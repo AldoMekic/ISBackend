@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF031A20-0430-4E6A-B8C3-43155AEC5264}|StudentApplication\\StudentApplication.csproj|c:\\users\\aldom\\onedrive\\desktop\\studentapplication\\studentapplication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF031A20-0430-4E6A-B8C3-43155AEC5264}|StudentApplication\\StudentApplication.csproj|solutionrelative:studentapplication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF031A20-0430-4E6A-B8C3-43155AEC5264}|StudentApplication\\StudentApplication.csproj|c:\\users\\aldom\\onedrive\\desktop\\studentapplication\\studentapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF031A20-0430-4E6A-B8C3-43155AEC5264}|StudentApplication\\StudentApplication.csproj|solutionrelative:studentapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,8 +62,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 285,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "StudentApplication\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "StudentApplication\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T12:54:01.008Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "20260301010700_init.cs",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication.Data\\Migrations\\20260301010700_init.cs",
               "RelativeDocumentMoniker": "StudentApplication.Data\\Migrations\\20260301010700_init.cs",
@@ -82,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication\\appsettings.json",
               "RelativeDocumentMoniker": "StudentApplication\\appsettings.json",
@@ -94,20 +111,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication\\Program.cs",
               "RelativeDocumentMoniker": "StudentApplication\\Program.cs",
               "ToolTip": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication\\Program.cs",
               "RelativeToolTip": "StudentApplication\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB0AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAUwB0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T00:43:30.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication\\Dockerfile",
               "RelativeDocumentMoniker": "StudentApplication\\Dockerfile",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication.Data\\Models\\User.cs",
               "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\User.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication.Data\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Subject.cs",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication.Data\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Student.cs",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Professor.cs",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication.Data\\Models\\Professor.cs",
               "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Professor.cs",
@@ -167,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Grade.cs",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication.Data\\Models\\Grade.cs",
               "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Grade.cs",
@@ -179,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication.Data\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Enrollment.cs",
@@ -191,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication.Data\\Models\\Department.cs",
               "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Department.cs",
@@ -203,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Admin.cs",
               "DocumentMoniker": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication.Data\\Models\\Admin.cs",
               "RelativeDocumentMoniker": "StudentApplication.Data\\Models\\Admin.cs",
