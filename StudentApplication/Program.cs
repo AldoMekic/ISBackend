@@ -27,7 +27,7 @@ builder.Services.AddCors(opt =>
             "http://localhost:5173",
             "http://localhost:3000",
             "http://localhost:4200",
-            "https://infoproject-of07pnstu-aldomekics-projects.vercel.app"
+            "https://infoproject-iag6z1cux-aldomekics-projects.vercel.app"
         )
         .AllowAnyHeader()
         .AllowAnyMethod()
