@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1BlipLYgYXU=",
+  "dgSpecHash": "UTT7mkfSwHo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Business\\StudentApplication.Business.csproj",
+  "projectFilePath": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication.Business\\StudentApplication.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aldom\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\aldom\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

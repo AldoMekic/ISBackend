@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FP7rxBiMh1E=",
+  "dgSpecHash": "y8LP+QIiLC8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aldom\\OneDrive\\Desktop\\Student application\\StudentApplication\\StudentApplication.Data\\StudentApplication.Data.csproj",
+  "projectFilePath": "C:\\Users\\aldom\\OneDrive\\Desktop\\StudentApplication\\StudentApplication.Data\\StudentApplication.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aldom\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\aldom\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
